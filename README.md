@@ -20,6 +20,6 @@ An SFS mod that contains a wing part (just a fuel tank thats lighter and has les
 
 ## Important notes
 
-I would like it if you could also Credit me if you use my stuff in any way on your mods/projects, and if you noticed already I stole some math from https://github.com/brihernandez/SimpleWings
+I would like it if you could also Credit me if you use my stuff in any way on your mods/projects, and if you noticed already I stole some math from https://github.com/brihernandez/SimpleWings because I got mad that the real world lift equations I originally used caused nothing but issues
 
 I will also likely not be maintaining this mod myself, and so any PR that doesnt cause issues and fix stuff or whatever is welcome.
