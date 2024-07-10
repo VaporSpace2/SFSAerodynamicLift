@@ -26,7 +26,7 @@ GameObject:
   - component: {fileID: 1885117496502451915}
   - component: {fileID: -7515272060497817975}
   m_Layer: 8
-  m_Name: LiftingBodyFuselage
+  m_Name: Wng part
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -60,10 +60,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   displayName:
-    TranslatableName: Fuel tank with body lift
+    TranslatableName: Wing
     plainText: 1
   description:
-    TranslatableName: Fuel tank that has body lift
+    TranslatableName: A lighter fuel tank that holds less fuel that acts like a wing
     plainText: 1
   mass:
     variables: {fileID: 5359086073482538324}
@@ -582,7 +582,7 @@ MonoBehaviour:
   dryMassPercent:
     variableName: 
     referenceToVariables: {fileID: 5359086073482538324}
-    localValue: 0.1
+    localValue: 0.075
   resourcePercent:
     variableName: fuel_percent
     referenceToVariables: {fileID: 5359086073482538324}
